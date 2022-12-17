@@ -1,0 +1,5 @@
+Founder of Python | Guido van Rossum.
+Python 3 was not backward compatible in 2008, one can't run the code of Python 2 with Python 3.
+When Python 3 tookover as it was not backward compatible so the libraries of Python 2 won't work on Python 3 and then they decided to use Python 2 and Python 3 both at the same time untill Python 3 develops and it has all the libraries.
+Python 3 is now more compatible then Python 2.
+ 
